@@ -6,7 +6,7 @@ academic_email: your_academic_email@univ
 description: > # this means to ignore newlines until "baseurl:"
   Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
 
-baseurl: "/academic-portfolio/" # the subpath of your site, e.g. /blog/
+baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
 url: "https://ys1998.github.io" # the base hostname & protocol for your site
 

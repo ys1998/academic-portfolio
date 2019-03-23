@@ -2,14 +2,14 @@
 
     {% for menu_item in site.data.menu %}
     {% if menu_item.subcategories != null %}
-    <li><a href="{{ menu_item.href }}" class="page-link">{{ menu_item.title }}</a>
+    <li><a href="{{ site.baseurl }}{{ menu_item.href }}" class="page-link">{{ menu_item.title }}</a>
     <ul class="sub-menu">
     {% for subcategory in menu_item.subcategories %}
-    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
     {% endfor %}
     </ul>
     {% else %}
-     <li><a href="{{ menu_item.href }}" class="page-link">{{ menu_item.title }}</a>
+     <li><a href="{{ site.baseurl }}{{ menu_item.href }}" class="page-link">{{ menu_item.title }}</a>
     {% endif %}
     </li>
     {% endfor %}

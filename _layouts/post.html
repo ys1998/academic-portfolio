@@ -9,7 +9,7 @@ layout: default
 {% if page.categories %}
   in
   {% for cat in page.categories %}
-  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
+  <a href="{{ site.baseurl }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
   {% endfor %}
 
 {% endif %}

@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/blog/2018/01/post-1</loc>
+      <loc>https://ys1998.github.io/blog/2018/01/post-1</loc>
       
         <lastmod>2018-01-10T20:40:00+05:30</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/blog/2018/01/post-2</loc>
+      <loc>https://ys1998.github.io/blog/2018/01/post-2</loc>
       
         <lastmod>2018-01-10T20:31:00+05:30</lastmod>
       
@@ -34,24 +34,9 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/about/</loc>
+      <loc>https://ys1998.github.io/about/</loc>
       
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://ys1998.github.io/academic-portfolio/blog/</loc>
-      
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -64,24 +49,9 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/categories/</loc>
+      <loc>https://ys1998.github.io/blog/</loc>
       
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://ys1998.github.io/academic-portfolio/miscellany/courses/</loc>
-      
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -94,24 +64,9 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/cv/</loc>
+      <loc>https://ys1998.github.io/categories/</loc>
       
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://ys1998.github.io/academic-portfolio/miscellany/extracurricular/</loc>
-      
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -124,24 +79,9 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/feed.xml</loc>
+      <loc>https://ys1998.github.io/miscellany/courses/</loc>
       
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://ys1998.github.io/academic-portfolio/</loc>
-      
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -154,24 +94,9 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/css/main.css</loc>
+      <loc>https://ys1998.github.io/cv/</loc>
       
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://ys1998.github.io/academic-portfolio/miscellany/</loc>
-      
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -184,9 +109,9 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/projects/</loc>
+      <loc>https://ys1998.github.io/miscellany/extracurricular/</loc>
       
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -199,9 +124,84 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/research/</loc>
+      <loc>https://ys1998.github.io/feed.xml</loc>
       
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ys1998.github.io/</loc>
+      
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ys1998.github.io/css/main.css</loc>
+      
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ys1998.github.io/miscellany/</loc>
+      
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ys1998.github.io/projects/</loc>
+      
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ys1998.github.io/research/</loc>
+      
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -216,9 +216,9 @@
   
     
     <url>
-      <loc>https://ys1998.github.io/academic-portfolio/miscellany/travel/</loc>
+      <loc>https://ys1998.github.io/miscellany/travel/</loc>
       
-        <lastmod>2019-03-23T16:34:54+05:30</lastmod>
+        <lastmod>2019-03-23T16:59:11+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>

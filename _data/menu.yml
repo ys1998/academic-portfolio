@@ -1,24 +1,24 @@
 - title: "About"
-  href: "about/"
+  href: "/about/"
 
 - title: "Research"
-  href: "research/"
+  href: "/research/"
 
 - title: "Projects"
-  href: "projects/"
+  href: "/projects/"
 
 - title: "Blog"
-  href: "blog/"
+  href: "/blog/"
 
 - title: "CV"
-  href: "cv/"
+  href: "/cv/"
 
 - title: "Miscellany"
-  href: "miscellany/"
+  href: "/miscellany/"
   subcategories:
     - subtitle: "Courses Undertaken"
-      subhref: "miscellany/courses/"
+      subhref: "/miscellany/courses/"
     - subtitle: "Extracurriculars"
-      subhref: "miscellany/extracurricular/"
+      subhref: "/miscellany/extracurricular/"
     - subtitle: "Travel"
-      subhref: "miscellany/travel/"
+      subhref: "/miscellany/travel/"

@@ -4,10 +4,10 @@
     <title>Your name here</title>
     <description>Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Mar 2019 16:17:49 +0530</pubDate>
-    <lastBuildDate>Sat, 23 Mar 2019 16:17:49 +0530</lastBuildDate>
+    <link>https://ys1998.github.io/academic-portfolio/</link>
+    <atom:link href="https://ys1998.github.io/academic-portfolio/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 23 Mar 2019 16:34:54 +0530</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2019 16:34:54 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -85,8 +85,8 @@ J_{TAR}=\beta L_2\left(\textbf{D}_l^t\odot\left(h_l^t - h_l^{t-1}\right)\right)&
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Jan 2018 20:40:00 +0530</pubDate>
-        <link>/blog/2018/01/post-1</link>
-        <guid isPermaLink="true">/blog/2018/01/post-1</guid>
+        <link>https://ys1998.github.io/academic-portfolio/blog/2018/01/post-1</link>
+        <guid isPermaLink="true">https://ys1998.github.io/academic-portfolio/blog/2018/01/post-1</guid>
         
         
         <category>rnn</category>
@@ -143,8 +143,8 @@ Gradients clipped at &lt;code class=&quot;highlighter-rouge&quot;&gt;10&lt;/code
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Jan 2018 20:31:00 +0530</pubDate>
-        <link>/blog/2018/01/post-2</link>
-        <guid isPermaLink="true">/blog/2018/01/post-2</guid>
+        <link>https://ys1998.github.io/academic-portfolio/blog/2018/01/post-2</link>
+        <guid isPermaLink="true">https://ys1998.github.io/academic-portfolio/blog/2018/01/post-2</guid>
         
         
         <category>rnn</category>

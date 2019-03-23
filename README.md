@@ -3,4 +3,4 @@
 
 [Live Demo](https://ys1998.github.io/academic-portfolio) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2A744DLR6PA8G)
 
-<img src="https://github.com/ys1998/academic-portfolio/blob/master/images/screenshot_large.png" /> 
+<img src="https://raw.githubusercontent.com/ys1998/academic-portfolio/master/images/screenshot_large.png" /> 
